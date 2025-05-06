@@ -1,0 +1,3 @@
+variable "webuser" {
+  default = "ubuntu"
+}
